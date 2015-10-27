@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "3J6AT397HY.com.peterbai.TestUniversalLinks",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
